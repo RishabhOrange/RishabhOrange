@@ -80,15 +80,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=RishabhOrange&show_icons=true&theme=tokyonight&hide_border=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=RishabhOrange&theme=tokyonight&hide_border=true" />
-</div>
-
----
-
 ### 🧠 My DevOps Philosophy
 ```yaml
 engineer:
@@ -119,7 +110,5 @@ engineer:
 ### 💬 Let's Build Something Great!
 
 **"Automate everything, monitor everything, improve everything."**
-
-![Profile Views](https://komarev.com/ghpvc/?username=RishabhOrange&label=Profile%20Views&color=brightgreen&style=flat-square)
 
 </div>
